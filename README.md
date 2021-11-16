@@ -1,5 +1,5 @@
-# ecoleta-mobile-interface
-ecoleta-mobile
+# climafacil-mobile-interface
+climafacil-mobile
 
 ## How to run this project?
 
